@@ -1,2 +1,2 @@
-# XManagementSystem
+# GymMemberManagementSystem
 course project for oop
